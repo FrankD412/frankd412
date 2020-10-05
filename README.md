@@ -3,7 +3,8 @@
 
 *Goal*: I want to make HPC and Cloud Computing accessible and easy to use.
 
-<a href="#" class="button big">Create Project</a>
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</GitHubButton>
 
 ---
 
