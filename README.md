@@ -3,6 +3,8 @@
 
 *Goal*: I want to make HPC and Cloud Computing accessible and easy to use.
 
+<button type="button" name="button" class="btn">Button element</button>
+
 ---
 
 I’m a Software Engineer and Architect/Designer by education with practical experience from both the areas of Computer Architecture and HPC. Through the use of simulation during my various experiences in graduate school and industry, I’ve come to appreciate the complexities of developing generalized workflow automation in the computational sciences. My experiences have instilled in me a deep passion for making high performance resources more readily useful and accessible to computational scientists, while also striving to make computational science more reproducible and document-able. These goals have lead me to create the Maestro Workflow Conductor, a lightweight tool for specifying and automating multi-step workflows on HPC resources, which has been used on many of the world’s fastest supercomputers (Summit, Sierra, Lassen, and others). I plan to continue to develop the philosophies, concepts, and software needed to provide computational scientists the tools and know-how they need to better design, develop, and communicate computational workflow process while also continuing to leverage opportunities to make these efforts easier to automate.
