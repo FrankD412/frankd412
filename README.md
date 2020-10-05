@@ -1,12 +1,6 @@
-import GitHubButton from 'react-github-btn'
-
-
 *Personal Motto*: If it's not broken, break it, and then make it better.
 
 *Goal*: I want to make HPC and Cloud Computing accessible and easy to use.
-
-<!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</GitHubButton>
 
 ---
 
