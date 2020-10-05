@@ -3,7 +3,7 @@
 
 *Goal*: I want to make HPC and Cloud Computing accessible and easy to use.
 
-<button type="button" name="button" class="btn">Button element</button>
+<a href="#" class="button big">Create Project</a>
 
 ---
 
