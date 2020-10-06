@@ -9,13 +9,15 @@ I’m a Software Engineer and Architect/Designer by education with practical exp
 I love to build tools that users not only trust, but that allows them to more productively focus on their own work; however, simply delivering a tool is not enough. Tools need to outlive singular projects requiring iterative design, modular components, and a clear vision for the future. I thrive in environments where my design expertise is allowed to meet my imagination, allowing me to creatively change the way people work and help them better solve their every day hurdles. My experiences have placed me into unique opportunities to work on multi-disciplinary teams, centered around simulating at-scale and with a variety of collaborators and contributors.
 
 ## My Work
+<ul>
+<li>
+<a href="https://github.com/LLNL/maestrowf">Maestro Workflow Conductor</a>, an open-source HPC software tool that defines a YAML-based study specification for defining multistep workflows and automates execution of software flows on HPC resources.
 <p align="center" ><a href="https://github.com/LLNL/maestrowf" alt="Orchestrate your workflows with ease!"><img src="https://github.com/LLNL/maestrowf/raw/develop/assets/logo.png?raw=true" height=48></a></p>
+</li>
 
-[Maestro Workflow Conductor](https://github.com/LLNL/maestrowf), an open-source HPC software tool that defines a YAML-based study specification for defining multistep workflows and automates execution of software flows on HPC resources.
-
----
-
-Multiscale Machine-learned Modeling Infrastructure (MuMMI), a multi-scale modeling workflow for running a large machine-learned ensemble of molecular dynamics simulations towards better understand cancer biology. For details see our [SC'19 paper](https://dl.acm.org/doi/10.1145/3295500.3356197).
+<li>Multiscale Machine-learned Modeling Infrastructure (MuMMI), a multi-scale modeling workflow for running a large machine-learned ensemble of molecular dynamics simulations towards better understand cancer biology. For details see our [SC'19 paper](https://dl.acm.org/doi/10.1145/3295500.3356197).
+</li>
+</ul>
 
 ## Reach Me
 <p align="center">
