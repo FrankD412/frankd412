@@ -1,8 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
----
-## About Me
-
+# About Me
 *Personal Motto*: If it's not broken, break it, and then make it better.
 
 *Goal*: I want to make HPC and Cloud Computing accessible and easy to use.
@@ -13,9 +9,13 @@ I’m a Software Engineer and Architect/Designer by education with practical exp
 
 It is my firm belief that my goals are achievable by prioritizing sound Software Engineering and Design fundamentals. I love to build tools that users not only trust, but that allows them to more productively focus on their own work towards critical scientific progress; however, simply delivering a tool is not enough. Tools need to outlive singular projects requiring iterative design, modular components, and a clear vision for the future. I thrive in environments where my design expertise is allowed to meet my imagination, allowing me to creatively change the way people work and help them better solve their every day hurdles. My experiences have placed me into unique opportunities to work on multi-disciplinary teams, centered around simulating at-scale and with a variety of collaborators and contributors.
 
----
-## Reach Me
+<br/>
 
-<a class="btn btn-sm btn-outline" href="mailto:frank.dinatale1988@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
-<a class="btn btn-sm btn-outline" href="http://twitter.com/therapiditalian" target="_blank" rel="noopener noreferrer">Twitter</a>
-<a class="btn btn-sm btn-outline" href="http://linkedin.com/in/francesco-di-natale-08330867" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+# Reach Me
+<p align="center">
+    <a href="https://twitter.com/therapiditalian" alt="Twitter"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/twitter-fill.svg" height=64 width=64></a>
+    <a href="http://linkedin.com/in/francesco-di-natale-08330867" alt="Linkedin"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/linkedin-box-fill.svg" height=64 width=64></a>
+    <a href="mailto:frank.dinatale1988@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/mail-fill.svg" height=64 width=64></a>
+    <a href="https://frankd412.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/home-2-fill.svg" height=64 width=64></a>
+
+</p>
