@@ -15,7 +15,7 @@ I love to build tools that users not only trust, but that allows them to more pr
 <p align="center" ><a href="https://github.com/LLNL/maestrowf" alt="Orchestrate your workflows with ease!"><img src="https://github.com/LLNL/maestrowf/raw/develop/assets/logo.png?raw=true" height=48></a></p>
 </li>
 
-<li>Multiscale Machine-learned Modeling Infrastructure (MuMMI), a multi-scale modeling workflow for running a large machine-learned ensemble of molecular dynamics simulations towards better understand cancer biology. For details see our [SC'19 paper](https://dl.acm.org/doi/10.1145/3295500.3356197).
+<li>Multiscale Machine-learned Modeling Infrastructure (MuMMI), a multi-scale modeling workflow for running a large machine-learned ensemble of molecular dynamics simulations towards better understand cancer biology. For details see our <a href="https://dl.acm.org/doi/10.1145/3295500.3356197">SC'19 paper</a>.
 </li>
 </ul>
 
