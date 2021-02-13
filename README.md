@@ -25,5 +25,7 @@ I love to build tools that users not only trust, but that allows them to more pr
     <a href="http://linkedin.com/in/francesco-di-natale-08330867" alt="Linkedin"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/linkedin-box-fill.svg" height=48></a>
     <a href="mailto:frank.dinatale1988@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/mail-fill.svg" height=48></a>
     <a href="https://frankd412.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/home-2-fill.svg" height=48></a>
-
 </p>
+
+## Stats
+![FrankD412's Stat Card](https://github-readme-stats.vercel.app/api?username=frankd412&show_icons=true&theme=react)
