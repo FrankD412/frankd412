@@ -21,10 +21,10 @@ I love to build tools that users not only trust, but that allows them to more pr
 
 ## Reach Me
 <p align="center">
-    <a href="https://twitter.com/therapiditalian" alt="Twitter"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/twitter-fill.svg" height=48></a>
-    <a href="http://linkedin.com/in/francesco-di-natale-08330867" alt="Linkedin"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/linkedin-box-fill.svg" height=48></a>
-    <a href="mailto:frank.dinatale1988@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/mail-fill.svg" height=48></a>
-    <a href="https://frankd412.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/home-2-fill.svg" height=48></a>
+    <a href="https://twitter.com/therapiditalian" alt="Twitter"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/twitter-fill-blue.svg" height=48></a>
+    <a href="http://linkedin.com/in/francesco-di-natale-08330867" alt="Linkedin"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/linkedin-box-fill-blue.svg" height=48></a>
+    <a href="mailto:frank.dinatale1988@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/mail-fill-blue.svg" height=48></a>
+    <a href="https://frankd412.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/FrankD412/frankd412/master/assets/icons/home-2-fill-blue.svg" height=48></a>
 </p>
 
 ## Stats
