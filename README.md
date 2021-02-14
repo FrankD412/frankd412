@@ -28,4 +28,6 @@ I love to build tools that users not only trust, but that allows them to more pr
 </p>
 
 ## Stats
-![FrankD412's Stat Card](https://github-readme-stats.vercel.app/api?username=frankd412&show_icons=true&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankd412&show_icons=true&theme=react" />
+</p>
