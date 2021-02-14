@@ -29,5 +29,5 @@ I love to build tools that users not only trust, but that allows them to more pr
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankd412&show_icons=true&theme=react" />
+  <a href="https://github.com/FrankD412/frankd412"><img src="https://github-readme-stats.vercel.app/api?username=frankd412&show_icons=true&theme=react" /></a>
 </p>
